@@ -13,6 +13,9 @@ creating line in order to generate a conflict on purpose
 let's just choose both
 
 adding an option
+<<<<<<< Updated upstream
 
 and trying another option
 
+=======
+>>>>>>> Stashed changes
