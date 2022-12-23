@@ -12,12 +12,12 @@ creating line in order to generate a conflict on purpose
 
 let's just choose both
 
-adding an option
+`adding an option`
 
-and trying another option
+*and trying another option*
 
-and trying a 3rd option as well
+**and trying a 3rd option as well**
 
-add the 4th option and kill the bug
+***add the 4th option and kill the bug***
 
 turning auto save on
