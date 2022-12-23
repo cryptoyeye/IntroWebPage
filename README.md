@@ -10,4 +10,5 @@ and adding another line on 12/23 from new computer
 
 creating line in order to generate a conflict on purpose
 
-We should choose local
+let's just choose both
+
