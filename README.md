@@ -18,9 +18,6 @@ and trying another option
 
 and trying a 3rd option as well
 
-<<<<<<< HEAD
-and now lest try to add a 5th version
-=======
-and add a buggy line right in the middle of change on the local machine
->>>>>>> main
+add the 4th option and kill the bug
 
+turning auto save on
