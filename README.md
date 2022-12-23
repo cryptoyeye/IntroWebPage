@@ -8,3 +8,4 @@ and adding another line to test
 adding a line on 12/21
 and adding another line on 12/23 from new computer
 
+creating line in order to generate a conflict on purpose
